@@ -96,3 +96,34 @@ header{
 .btn-hiring:active {
   transform: scale(0);
 }
+
+.main_top {
+  height: 50%;
+  background-color: white;
+}
+.main_en{
+  text-align: center;
+  width: 50%;
+  height: 100%;
+  float: left;
+  font-family: 'Gugi', cursive;
+  font-size:30px;
+}
+.main_kr {
+  text-align: center;
+  width: 50%;
+  height: 100%;
+  float: left;
+  font-family: 'Jua', sans-serif;
+  font-size:30px;
+}
+.my_pic {
+  width: 100%;
+  height: 50%;
+}
+.pic{
+  width: 100%;
+}
+.footer {
+  clear : both
+}
